@@ -308,7 +308,6 @@ body{
 {
   margin-top:100px;
    background-color:#FAFBFC;
-   color:#696E79;
 }
 
 #main-footer .foot-head{
@@ -316,18 +315,3 @@ body{
     font-weight:600;
     color:rgba(0,0,0,0.8);
 }
-#main-footer .small-line{
-    line-height:8px;
-}
-
-#main-footer .media-icons{
-    max-width:30px;
-}
-#main-footer .last-img{
-    max-width:50px;
-}
-#main-footer .last-text{
-    color:black;
-    font-weight:600;
-}
-
